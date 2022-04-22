@@ -8,7 +8,7 @@ const Navbar = () => {
     <>
       <div className="flex items-center w-full p-4 fixed bg-black z-50 bg-opacity-50 font-sans">
         <div className=" w-1/4">
-          <h4 className=" font-bold  ">{`<Code With Mohammad/>`}</h4>
+          <h4 className=" font-bold ">{`<Code With Mohammad/>`}</h4>
         </div>
         <div className="  space-x-3 w-1/2 inline-flex items-center">
           <Link to="/" className={style}>
